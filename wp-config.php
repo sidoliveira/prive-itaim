@@ -24,13 +24,13 @@
 define('DB_NAME', 'prive');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'prive250');
+define('DB_USER', 'priveitaim');
 
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', 'prive250321');
+define('DB_PASSWORD', 'itaim321');
 
 /** Nome do host do MySQL */
-define('DB_HOST', 'mysql796.umbler.com');
+define('DB_HOST', 'mysql746.umbler.com');
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define('DB_CHARSET', 'utf8mb4');
